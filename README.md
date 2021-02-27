@@ -1,0 +1,2 @@
+# techacademymagagine
+techakademyで練習
